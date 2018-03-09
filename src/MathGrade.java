@@ -14,7 +14,7 @@ public class MathGrade {
 		for(int i= 0; i<myList.length; i++) {
 			int x = myList[i];
 			System.out.print(x + " ");
-			if(x > max) {
+			if(x > max) {d
 				max = x;
 			}
 		}
